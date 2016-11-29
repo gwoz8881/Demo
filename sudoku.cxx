@@ -1,3 +1,10 @@
+// Gary Wozniak
+//
+// This code does a brute force method for solving sudoku boards by plugging in
+// numbers from 1-9 until it returns true for only 1 number in each row, collumn, or box
+//
+
+
 #include <iostream>
 #include <cstdlib>
 #include <iomanip>
